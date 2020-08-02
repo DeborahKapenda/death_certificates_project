@@ -1,0 +1,6 @@
+library(readr)
+
+rawdata_1895 <- read_csv("./data/Kimberley_data_1895.csv")
+placeofinterest_data <- read_csv("./data/Place_Of_Interest.csv")
+
+
